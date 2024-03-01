@@ -1,9 +1,12 @@
 import React from 'react'
+import classes from './signup.module.css'
 
-const Signup = () => {
+const SignUp = () => {
   return (
-    <div><h1>Signup</h1></div>
+    <div>
+     
+    </div>
   )
 }
 
-export default Signup
+export default SignUp
